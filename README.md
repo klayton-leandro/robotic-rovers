@@ -1,18 +1,19 @@
-# TDD & BDD
-[Add TDD and BDD in FoxFit Class Method]
+Test Rover
 
+Input:
 
+5 5
 
-# Input
-- input 
+1 2 N
 
-    5 5
-    1 2 N
-    LMLMLMLMM
-    3 3 E
-    MMRMMRMRRM
+LMLMLMLMM
 
-- output 
+3 3 E
 
-    1 3 N
-    5 1 E
+MMRMMRMRRM
+
+Expected Output:
+
+1 3 N
+
+5 1 E
