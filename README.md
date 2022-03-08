@@ -4,15 +4,15 @@
 
 
 # Input
-- input [
+- input 
+
     5 5
     1 2 N
     LMLMLMLMM
     3 3 E
     MMRMMRMRRM
-]
 
-- output [
+- output 
+
     1 3 N
     5 1 E
-]
